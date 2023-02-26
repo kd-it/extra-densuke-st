@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "ex1",
+      "setup": "",
+      "run": "fgrep -q 'https://hub.docker.com/' ex1/ex1.txt",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
